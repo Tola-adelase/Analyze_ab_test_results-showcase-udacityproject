@@ -1,0 +1,23 @@
+{
+  "raw_rows": 294478,
+  "mismatched_rows": 3893,
+  "duplicate_users_removed": 1,
+  "analysed_users": 290584,
+  "control": {
+    "n": 145274,
+    "converted": 17489
+  },
+  "treatment": {
+    "n": 145310,
+    "converted": 17264
+  },
+  "old_rate": 0.1203863045004612,
+  "new_rate": 0.11880806551510564,
+  "new_minus_old_pp": -0.15782389853555567,
+  "normal_approx_95pct_ci_pp": [
+    -0.39378602450527367,
+    0.0781382274341623
+  ],
+  "pooled_z_new_minus_old": -1.3109241984234394,
+  "one_sided_p_new_greater_than_old": 0.9050583127590245
+}
